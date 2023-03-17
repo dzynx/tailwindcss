@@ -1,0 +1,16 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
